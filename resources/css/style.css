@@ -1,0 +1,53 @@
+body{
+    font-family: 'Poppins', sans-serif;
+}
+body p{
+    font-size: 12px;
+}
+.penguin-fashion-header{
+    background-color: #ddfce4;
+    margin:auto;
+}
+.penguin-fashion-header h1{
+    font-weight: 700;
+}
+.head-text-highlight{
+    color: rgb(23, 204, 99);
+}
+.head-text{
+    color: darkslategrey;
+}
+.btn-icon{
+    width: 25%;
+}
+.picture-frame{
+    border-radius: 5%;
+    background-color: #ecf8ef;
+    height: 300px;
+}
+.picture-frame img{
+    height: 100%;
+}
+.product-card{
+    border-radius: 5%;
+}
+.woman-jacket h3, .man-jacket h3{
+    padding-bottom: 2%;
+    font-weight: 700;
+    color: darkslategrey;
+}
+.clinet-help-info{
+    width: 90%;
+    margin: 2%;
+    padding: 1%;
+}
+@media (max-width: 768px){
+    .client-help-text{
+        text-align: center;
+    }
+}
+.my-form{
+    background-color: #ddfce4;
+    height: 300px;
+    color: darkslategrey;
+}
